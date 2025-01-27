@@ -9,6 +9,7 @@
 
 /* Home */
 @import "./home/introdução.css";
+@import "./home/tecnologia.css";
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
