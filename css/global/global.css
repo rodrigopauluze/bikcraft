@@ -29,6 +29,7 @@ ul,
 h3,
 h4,
 blockquote,
-h2 p {
+h2,
+ p {
   margin: 0px;
 }
